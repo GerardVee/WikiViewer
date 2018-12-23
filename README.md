@@ -126,7 +126,7 @@ Specifics of the project. Technologies and licensing are displayed here.
 
 ### License
 
-All code in this repository is provided under the [MIT License](https://github.com/GerardVee/wikiviewer/blob/master/LICENSE).
+All code in this repository is provided under the [MIT License](https://github.com/GerardVee/wikiviewer/blob/master/LICENSE.md).
 
 <br>
 
